@@ -1,0 +1,8 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+Client-side handshake with P1 failed. Make sure both sides  have the necessary certificate (Player-Data/P2.pem in the default configuration on their side and Player-Data/P1.pem on ours), and run `c_rehash <directory>` on its location.
+The certificates should be the same on every host. Also make sure that it's still valid. Certificates generated with `Scripts/setup-ssl.sh` expire after a month.
+See also https://mp-spdz.readthedocs.io/en/latest/troubleshooting.html#handshake-failures
+Signature (should match the other side): 3d3fd3e620127a7e31813adc902cdbc6/b722e3a7e04625c3bc7523ae2d15ea5c
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+  what():  handshake: certificate verify failed

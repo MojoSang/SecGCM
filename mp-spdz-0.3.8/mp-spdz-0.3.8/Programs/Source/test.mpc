@@ -1,0 +1,7 @@
+from test import dijkstra
+
+n=127
+m=1000
+edges=sint.Tensor([m,3])
+edges.input_from(0)
+dist=dijkstra(n,m,edges,1)
