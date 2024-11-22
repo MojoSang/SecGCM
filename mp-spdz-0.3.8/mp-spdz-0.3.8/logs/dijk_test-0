@@ -1,0 +1,5124 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+Starting timer 2000 at 0 (0 MB, 0 rounds) after 4.24e-06
+loop 0
+Elapsed time: 23.9429
+u: 1, v: 1, alt: 0, dv: 0, first visit: 0
+loop 1
+Elapsed time: 25.3262
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 2
+Elapsed time: 26.7391
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 3
+Elapsed time: 28.1489
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 4
+Elapsed time: 29.5261
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 5
+Elapsed time: 30.9202
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 6
+Elapsed time: 32.3087
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 7
+Elapsed time: 33.6924
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 8
+Elapsed time: 35.0862
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 9
+Elapsed time: 36.482
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 10
+Elapsed time: 37.8747
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 11
+Elapsed time: 39.251
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 12
+Elapsed time: 40.6374
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 13
+Elapsed time: 42.0359
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 14
+Elapsed time: 43.4217
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 15
+Elapsed time: 44.8149
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 16
+Elapsed time: 46.1864
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 17
+Elapsed time: 47.5521
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 18
+Elapsed time: 48.9433
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 19
+Elapsed time: 50.3287
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 20
+Elapsed time: 51.7184
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 21
+Elapsed time: 53.1133
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 22
+Elapsed time: 54.5055
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 23
+Elapsed time: 55.896
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 24
+Elapsed time: 57.2846
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 25
+Elapsed time: 58.6917
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 26
+Elapsed time: 60.0864
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 27
+Elapsed time: 61.469
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 28
+Elapsed time: 62.8493
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 29
+Elapsed time: 64.244
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 30
+Elapsed time: 65.6344
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 31
+Elapsed time: 67.0277
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 32
+Elapsed time: 68.4202
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 33
+Elapsed time: 69.7959
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 34
+Elapsed time: 71.1909
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 35
+Elapsed time: 72.5876
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 36
+Elapsed time: 73.977
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 37
+Elapsed time: 75.356
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 38
+Elapsed time: 76.7525
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 39
+Elapsed time: 78.1607
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 40
+Elapsed time: 79.5515
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 41
+Elapsed time: 80.9398
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 42
+Elapsed time: 82.3349
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 43
+Elapsed time: 83.7268
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 44
+Elapsed time: 85.1148
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 45
+Elapsed time: 86.4935
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 46
+Elapsed time: 87.8944
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 47
+Elapsed time: 89.2847
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 48
+Elapsed time: 90.6923
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 49
+Elapsed time: 92.0963
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 50
+Elapsed time: 93.496
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 51
+Elapsed time: 94.9009
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 52
+Elapsed time: 96.3054
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 53
+Elapsed time: 97.6907
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 54
+Elapsed time: 99.0967
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 55
+Elapsed time: 100.492
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 56
+Elapsed time: 101.904
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 57
+Elapsed time: 103.328
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 58
+Elapsed time: 104.731
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 59
+Elapsed time: 106.132
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 60
+Elapsed time: 107.532
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 61
+Elapsed time: 108.943
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 62
+Elapsed time: 110.356
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 63
+Elapsed time: 111.767
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 64
+Elapsed time: 113.178
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 65
+Elapsed time: 114.587
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 66
+Elapsed time: 115.991
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 67
+Elapsed time: 117.378
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 68
+Elapsed time: 118.767
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 69
+Elapsed time: 120.168
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 70
+Elapsed time: 121.554
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 71
+Elapsed time: 123.011
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 72
+Elapsed time: 124.525
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 73
+Elapsed time: 125.924
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 74
+Elapsed time: 127.314
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 75
+Elapsed time: 128.726
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 76
+Elapsed time: 130.137
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 77
+Elapsed time: 131.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 78
+Elapsed time: 132.946
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 79
+Elapsed time: 134.382
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 80
+Elapsed time: 135.801
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 81
+Elapsed time: 137.215
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 82
+Elapsed time: 138.644
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 83
+Elapsed time: 140.046
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 84
+Elapsed time: 141.459
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 85
+Elapsed time: 142.873
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 86
+Elapsed time: 144.292
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 87
+Elapsed time: 145.709
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 88
+Elapsed time: 147.119
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 89
+Elapsed time: 148.549
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 90
+Elapsed time: 149.985
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 91
+Elapsed time: 151.395
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 92
+Elapsed time: 152.821
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 93
+Elapsed time: 154.244
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 94
+Elapsed time: 155.665
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 95
+Elapsed time: 157.062
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 96
+Elapsed time: 158.473
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 97
+Elapsed time: 159.877
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 98
+Elapsed time: 161.274
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 99
+Elapsed time: 162.668
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 100
+Elapsed time: 164.023
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 101
+Elapsed time: 165.433
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 102
+Elapsed time: 166.819
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 103
+Elapsed time: 168.208
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 104
+Elapsed time: 169.612
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 105
+Elapsed time: 171.021
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 106
+Elapsed time: 172.428
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 107
+Elapsed time: 173.808
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 108
+Elapsed time: 175.194
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 109
+Elapsed time: 176.565
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 110
+Elapsed time: 177.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 111
+Elapsed time: 179.384
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 112
+Elapsed time: 180.802
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 113
+Elapsed time: 182.214
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 114
+Elapsed time: 183.636
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 115
+Elapsed time: 185.032
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 116
+Elapsed time: 186.434
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 117
+Elapsed time: 187.832
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 118
+Elapsed time: 189.238
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 119
+Elapsed time: 190.647
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 120
+Elapsed time: 192.065
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 121
+Elapsed time: 193.467
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 122
+Elapsed time: 194.854
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 123
+Elapsed time: 196.247
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 124
+Elapsed time: 197.645
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 125
+Elapsed time: 199.078
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 126
+Elapsed time: 200.494
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 127
+Elapsed time: 201.911
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 128
+Elapsed time: 203.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 129
+Elapsed time: 204.691
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 130
+Elapsed time: 206.099
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 131
+Elapsed time: 207.502
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 132
+Elapsed time: 208.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 133
+Elapsed time: 210.359
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 134
+Elapsed time: 211.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 135
+Elapsed time: 213.189
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 136
+Elapsed time: 214.598
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 137
+Elapsed time: 215.976
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 138
+Elapsed time: 217.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 139
+Elapsed time: 218.811
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 140
+Elapsed time: 220.216
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 141
+Elapsed time: 221.626
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 142
+Elapsed time: 223.043
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 143
+Elapsed time: 224.465
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 144
+Elapsed time: 225.878
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 145
+Elapsed time: 227.292
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 146
+Elapsed time: 228.692
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 147
+Elapsed time: 230.078
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 148
+Elapsed time: 231.426
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 149
+Elapsed time: 232.801
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 150
+Elapsed time: 234.211
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 151
+Elapsed time: 235.638
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 152
+Elapsed time: 237.043
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 153
+Elapsed time: 238.435
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 154
+Elapsed time: 239.825
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 155
+Elapsed time: 241.208
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 156
+Elapsed time: 242.593
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 157
+Elapsed time: 243.993
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 158
+Elapsed time: 245.397
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 159
+Elapsed time: 246.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 160
+Elapsed time: 248.216
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 161
+Elapsed time: 249.645
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 162
+Elapsed time: 251.062
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 163
+Elapsed time: 252.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 164
+Elapsed time: 253.934
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 165
+Elapsed time: 255.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 166
+Elapsed time: 256.764
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 167
+Elapsed time: 258.168
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 168
+Elapsed time: 259.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 169
+Elapsed time: 261.052
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 170
+Elapsed time: 262.457
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 171
+Elapsed time: 263.865
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 172
+Elapsed time: 265.274
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 173
+Elapsed time: 266.692
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 174
+Elapsed time: 268.116
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 175
+Elapsed time: 269.541
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 176
+Elapsed time: 270.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 177
+Elapsed time: 272.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 178
+Elapsed time: 273.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 179
+Elapsed time: 275.187
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 180
+Elapsed time: 276.622
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 181
+Elapsed time: 278.045
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 182
+Elapsed time: 279.474
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 183
+Elapsed time: 280.899
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 184
+Elapsed time: 282.321
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 185
+Elapsed time: 283.726
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 186
+Elapsed time: 285.131
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 187
+Elapsed time: 286.565
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 188
+Elapsed time: 287.996
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 189
+Elapsed time: 289.432
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 190
+Elapsed time: 290.838
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 191
+Elapsed time: 292.245
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 192
+Elapsed time: 293.635
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 193
+Elapsed time: 295.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 194
+Elapsed time: 296.458
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 195
+Elapsed time: 297.873
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 196
+Elapsed time: 299.294
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 197
+Elapsed time: 300.708
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 198
+Elapsed time: 302.109
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 199
+Elapsed time: 303.511
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 200
+Elapsed time: 304.934
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 201
+Elapsed time: 306.356
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 202
+Elapsed time: 307.771
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 203
+Elapsed time: 309.171
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 204
+Elapsed time: 310.569
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 205
+Elapsed time: 311.948
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 206
+Elapsed time: 313.327
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 207
+Elapsed time: 314.747
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 208
+Elapsed time: 316.164
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 209
+Elapsed time: 317.575
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 210
+Elapsed time: 319.004
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 211
+Elapsed time: 320.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 212
+Elapsed time: 321.907
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 213
+Elapsed time: 323.302
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 214
+Elapsed time: 324.728
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 215
+Elapsed time: 326.107
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 216
+Elapsed time: 327.455
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 217
+Elapsed time: 328.809
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 218
+Elapsed time: 330.202
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 219
+Elapsed time: 331.602
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 220
+Elapsed time: 333.004
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 221
+Elapsed time: 334.403
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 222
+Elapsed time: 335.778
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 223
+Elapsed time: 337.147
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 224
+Elapsed time: 338.527
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 225
+Elapsed time: 339.927
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 226
+Elapsed time: 341.334
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 227
+Elapsed time: 342.751
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 228
+Elapsed time: 344.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 229
+Elapsed time: 345.561
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 230
+Elapsed time: 346.957
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 231
+Elapsed time: 348.347
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 232
+Elapsed time: 349.758
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 233
+Elapsed time: 351.151
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 234
+Elapsed time: 352.558
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 235
+Elapsed time: 353.969
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 236
+Elapsed time: 355.382
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 237
+Elapsed time: 356.771
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 238
+Elapsed time: 358.176
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 239
+Elapsed time: 359.594
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 240
+Elapsed time: 361.015
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 241
+Elapsed time: 362.436
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 242
+Elapsed time: 363.856
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 243
+Elapsed time: 365.342
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 244
+Elapsed time: 366.821
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 245
+Elapsed time: 368.205
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 246
+Elapsed time: 369.601
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 247
+Elapsed time: 371.011
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 248
+Elapsed time: 372.422
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 249
+Elapsed time: 373.833
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 250
+Elapsed time: 375.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 251
+Elapsed time: 376.651
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 252
+Elapsed time: 378.058
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 253
+Elapsed time: 379.481
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 254
+Elapsed time: 380.879
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 255
+Elapsed time: 382.272
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 256
+Elapsed time: 383.663
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 257
+Elapsed time: 385.044
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 258
+Elapsed time: 386.442
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 259
+Elapsed time: 387.869
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 260
+Elapsed time: 389.271
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 261
+Elapsed time: 390.695
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 262
+Elapsed time: 392.098
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 263
+Elapsed time: 393.524
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 264
+Elapsed time: 394.954
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 265
+Elapsed time: 396.383
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 266
+Elapsed time: 397.793
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 267
+Elapsed time: 399.212
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 268
+Elapsed time: 400.612
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 269
+Elapsed time: 402
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 270
+Elapsed time: 403.401
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 271
+Elapsed time: 404.811
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 272
+Elapsed time: 406.227
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 273
+Elapsed time: 407.638
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 274
+Elapsed time: 409.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 275
+Elapsed time: 410.468
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 276
+Elapsed time: 411.882
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 277
+Elapsed time: 413.302
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 278
+Elapsed time: 414.718
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 279
+Elapsed time: 416.137
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 280
+Elapsed time: 417.558
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 281
+Elapsed time: 418.962
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 282
+Elapsed time: 420.367
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 283
+Elapsed time: 421.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 284
+Elapsed time: 423.165
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 285
+Elapsed time: 424.573
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 286
+Elapsed time: 425.977
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 287
+Elapsed time: 427.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 288
+Elapsed time: 428.742
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 289
+Elapsed time: 430.097
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 290
+Elapsed time: 431.481
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 291
+Elapsed time: 432.893
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 292
+Elapsed time: 434.293
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 293
+Elapsed time: 435.721
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 294
+Elapsed time: 437.133
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 295
+Elapsed time: 438.571
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 296
+Elapsed time: 439.967
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 297
+Elapsed time: 441.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 298
+Elapsed time: 442.774
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 299
+Elapsed time: 444.172
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 300
+Elapsed time: 445.595
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 301
+Elapsed time: 447.021
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 302
+Elapsed time: 448.423
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 303
+Elapsed time: 449.853
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 304
+Elapsed time: 451.273
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 305
+Elapsed time: 452.674
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 306
+Elapsed time: 454.081
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 307
+Elapsed time: 455.496
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 308
+Elapsed time: 456.912
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 309
+Elapsed time: 458.298
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 310
+Elapsed time: 459.726
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 311
+Elapsed time: 461.161
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 312
+Elapsed time: 462.573
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 313
+Elapsed time: 463.986
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 314
+Elapsed time: 465.395
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 315
+Elapsed time: 466.781
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 316
+Elapsed time: 468.204
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 317
+Elapsed time: 469.618
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 318
+Elapsed time: 471.004
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 319
+Elapsed time: 472.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 320
+Elapsed time: 473.851
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 321
+Elapsed time: 475.265
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 322
+Elapsed time: 476.657
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 323
+Elapsed time: 478.045
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 324
+Elapsed time: 479.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 325
+Elapsed time: 480.818
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 326
+Elapsed time: 482.221
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 327
+Elapsed time: 483.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 328
+Elapsed time: 485.071
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 329
+Elapsed time: 486.452
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 330
+Elapsed time: 487.893
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 331
+Elapsed time: 489.316
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 332
+Elapsed time: 490.734
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 333
+Elapsed time: 492.131
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 334
+Elapsed time: 493.525
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 335
+Elapsed time: 494.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 336
+Elapsed time: 496.338
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 337
+Elapsed time: 497.751
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 338
+Elapsed time: 499.196
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 339
+Elapsed time: 500.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 340
+Elapsed time: 502.023
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 341
+Elapsed time: 503.427
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 342
+Elapsed time: 504.841
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 343
+Elapsed time: 506.24
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 344
+Elapsed time: 507.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 345
+Elapsed time: 509.067
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 346
+Elapsed time: 510.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 347
+Elapsed time: 511.868
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 348
+Elapsed time: 513.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 349
+Elapsed time: 514.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 350
+Elapsed time: 516.061
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 351
+Elapsed time: 517.464
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 352
+Elapsed time: 518.878
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 353
+Elapsed time: 520.274
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 354
+Elapsed time: 521.631
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 355
+Elapsed time: 523.025
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 356
+Elapsed time: 524.421
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 357
+Elapsed time: 525.845
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 358
+Elapsed time: 527.259
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 359
+Elapsed time: 528.672
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 360
+Elapsed time: 530.058
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 361
+Elapsed time: 531.473
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 362
+Elapsed time: 532.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 363
+Elapsed time: 534.307
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 364
+Elapsed time: 535.726
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 365
+Elapsed time: 537.142
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 366
+Elapsed time: 538.564
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 367
+Elapsed time: 539.996
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 368
+Elapsed time: 541.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 369
+Elapsed time: 542.852
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 370
+Elapsed time: 544.277
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 371
+Elapsed time: 545.692
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 372
+Elapsed time: 547.103
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 373
+Elapsed time: 548.518
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 374
+Elapsed time: 549.938
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 375
+Elapsed time: 551.364
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 376
+Elapsed time: 552.782
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 377
+Elapsed time: 554.196
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 378
+Elapsed time: 555.627
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 379
+Elapsed time: 557.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 380
+Elapsed time: 558.483
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 381
+Elapsed time: 559.905
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 382
+Elapsed time: 561.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 383
+Elapsed time: 562.732
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 384
+Elapsed time: 564.148
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 385
+Elapsed time: 565.576
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 386
+Elapsed time: 567.002
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 387
+Elapsed time: 568.427
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 388
+Elapsed time: 569.857
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 389
+Elapsed time: 571.254
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 390
+Elapsed time: 572.638
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 391
+Elapsed time: 574.032
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 392
+Elapsed time: 575.433
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 393
+Elapsed time: 576.849
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 394
+Elapsed time: 578.267
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 395
+Elapsed time: 579.683
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 396
+Elapsed time: 581.098
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 397
+Elapsed time: 582.519
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 398
+Elapsed time: 583.935
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 399
+Elapsed time: 585.359
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 400
+Elapsed time: 586.765
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 401
+Elapsed time: 588.197
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 402
+Elapsed time: 589.624
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 403
+Elapsed time: 591.047
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 404
+Elapsed time: 592.475
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 405
+Elapsed time: 593.901
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 406
+Elapsed time: 595.308
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 407
+Elapsed time: 596.722
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 408
+Elapsed time: 598.139
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 409
+Elapsed time: 599.561
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 410
+Elapsed time: 600.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 411
+Elapsed time: 602.395
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 412
+Elapsed time: 603.806
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 413
+Elapsed time: 605.221
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 414
+Elapsed time: 606.627
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 415
+Elapsed time: 608.042
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 416
+Elapsed time: 609.468
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 417
+Elapsed time: 610.885
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 418
+Elapsed time: 612.305
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 419
+Elapsed time: 613.684
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 420
+Elapsed time: 615.068
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 421
+Elapsed time: 616.496
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 422
+Elapsed time: 617.927
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 423
+Elapsed time: 619.368
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 424
+Elapsed time: 620.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 425
+Elapsed time: 622.231
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 426
+Elapsed time: 623.671
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 427
+Elapsed time: 625.095
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 428
+Elapsed time: 626.521
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 429
+Elapsed time: 627.942
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 430
+Elapsed time: 629.348
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 431
+Elapsed time: 630.771
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 432
+Elapsed time: 632.175
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 433
+Elapsed time: 633.593
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 434
+Elapsed time: 635.006
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 435
+Elapsed time: 636.386
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 436
+Elapsed time: 637.745
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 437
+Elapsed time: 639.145
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 438
+Elapsed time: 640.566
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 439
+Elapsed time: 641.994
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 440
+Elapsed time: 643.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 441
+Elapsed time: 644.824
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 442
+Elapsed time: 646.227
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 443
+Elapsed time: 647.646
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 444
+Elapsed time: 649.074
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 445
+Elapsed time: 650.502
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 446
+Elapsed time: 651.915
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 447
+Elapsed time: 653.341
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 448
+Elapsed time: 654.763
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 449
+Elapsed time: 656.177
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 450
+Elapsed time: 657.586
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 451
+Elapsed time: 659.001
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 452
+Elapsed time: 660.415
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 453
+Elapsed time: 661.848
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 454
+Elapsed time: 663.281
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 455
+Elapsed time: 664.698
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 456
+Elapsed time: 666.099
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 457
+Elapsed time: 667.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 458
+Elapsed time: 668.916
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 459
+Elapsed time: 670.295
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 460
+Elapsed time: 671.714
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 461
+Elapsed time: 673.141
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 462
+Elapsed time: 674.518
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 463
+Elapsed time: 675.897
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 464
+Elapsed time: 677.272
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 465
+Elapsed time: 678.674
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 466
+Elapsed time: 680.032
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 467
+Elapsed time: 681.426
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 468
+Elapsed time: 682.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 469
+Elapsed time: 684.278
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 470
+Elapsed time: 685.661
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 471
+Elapsed time: 687.057
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 472
+Elapsed time: 688.454
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 473
+Elapsed time: 689.872
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 474
+Elapsed time: 691.299
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 475
+Elapsed time: 692.708
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 476
+Elapsed time: 694.126
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 477
+Elapsed time: 695.551
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 478
+Elapsed time: 696.968
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 479
+Elapsed time: 698.382
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 480
+Elapsed time: 699.786
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 481
+Elapsed time: 701.184
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 482
+Elapsed time: 702.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 483
+Elapsed time: 704.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 484
+Elapsed time: 705.436
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 485
+Elapsed time: 706.863
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 486
+Elapsed time: 708.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 487
+Elapsed time: 709.677
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 488
+Elapsed time: 711.086
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 489
+Elapsed time: 712.496
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 490
+Elapsed time: 713.892
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 491
+Elapsed time: 715.295
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 492
+Elapsed time: 716.699
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 493
+Elapsed time: 718.083
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 494
+Elapsed time: 719.491
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 495
+Elapsed time: 720.938
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 496
+Elapsed time: 722.373
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 497
+Elapsed time: 723.761
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 498
+Elapsed time: 725.159
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 499
+Elapsed time: 726.554
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 500
+Elapsed time: 727.962
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 501
+Elapsed time: 729.381
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 502
+Elapsed time: 730.775
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 503
+Elapsed time: 732.185
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 504
+Elapsed time: 733.617
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 505
+Elapsed time: 735.031
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 506
+Elapsed time: 736.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 507
+Elapsed time: 737.846
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 508
+Elapsed time: 739.238
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 509
+Elapsed time: 740.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 510
+Elapsed time: 742.056
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 511
+Elapsed time: 743.474
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 512
+Elapsed time: 744.868
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 513
+Elapsed time: 746.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 514
+Elapsed time: 747.687
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 515
+Elapsed time: 749.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 516
+Elapsed time: 750.532
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 517
+Elapsed time: 751.951
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 518
+Elapsed time: 753.374
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 519
+Elapsed time: 754.782
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 520
+Elapsed time: 756.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 521
+Elapsed time: 757.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 522
+Elapsed time: 758.921
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 523
+Elapsed time: 760.338
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 524
+Elapsed time: 761.734
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 525
+Elapsed time: 763.168
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 526
+Elapsed time: 764.589
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 527
+Elapsed time: 766.004
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 528
+Elapsed time: 767.434
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 529
+Elapsed time: 768.852
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 530
+Elapsed time: 770.267
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 531
+Elapsed time: 771.686
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 532
+Elapsed time: 773.101
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 533
+Elapsed time: 774.518
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 534
+Elapsed time: 775.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 535
+Elapsed time: 777.333
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 536
+Elapsed time: 778.739
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 537
+Elapsed time: 780.154
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 538
+Elapsed time: 781.581
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 539
+Elapsed time: 782.987
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 540
+Elapsed time: 784.408
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 541
+Elapsed time: 785.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 542
+Elapsed time: 787.231
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 543
+Elapsed time: 788.639
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 544
+Elapsed time: 790.058
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 545
+Elapsed time: 791.473
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 546
+Elapsed time: 792.897
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 547
+Elapsed time: 794.311
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 548
+Elapsed time: 795.734
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 549
+Elapsed time: 797.162
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 550
+Elapsed time: 798.571
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 551
+Elapsed time: 799.983
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 552
+Elapsed time: 801.398
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 553
+Elapsed time: 802.798
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 554
+Elapsed time: 804.191
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 555
+Elapsed time: 805.573
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 556
+Elapsed time: 806.978
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 557
+Elapsed time: 808.387
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 558
+Elapsed time: 809.822
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 559
+Elapsed time: 811.242
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 560
+Elapsed time: 812.652
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 561
+Elapsed time: 814.058
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 562
+Elapsed time: 815.457
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 563
+Elapsed time: 816.882
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 564
+Elapsed time: 818.294
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 565
+Elapsed time: 819.714
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 566
+Elapsed time: 821.126
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 567
+Elapsed time: 822.541
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 568
+Elapsed time: 823.948
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 569
+Elapsed time: 825.357
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 570
+Elapsed time: 826.775
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 571
+Elapsed time: 828.201
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 572
+Elapsed time: 829.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 573
+Elapsed time: 831.014
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 574
+Elapsed time: 832.411
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 575
+Elapsed time: 833.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 576
+Elapsed time: 835.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 577
+Elapsed time: 836.676
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 578
+Elapsed time: 838.103
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 579
+Elapsed time: 839.527
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 580
+Elapsed time: 840.956
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 581
+Elapsed time: 842.429
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 582
+Elapsed time: 843.866
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 583
+Elapsed time: 845.294
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 584
+Elapsed time: 846.722
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 585
+Elapsed time: 848.143
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 586
+Elapsed time: 849.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 587
+Elapsed time: 850.958
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 588
+Elapsed time: 852.367
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 589
+Elapsed time: 853.786
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 590
+Elapsed time: 855.176
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 591
+Elapsed time: 856.604
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 592
+Elapsed time: 858.027
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 593
+Elapsed time: 859.455
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 594
+Elapsed time: 860.883
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 595
+Elapsed time: 862.292
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 596
+Elapsed time: 863.697
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 597
+Elapsed time: 865.106
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 598
+Elapsed time: 866.513
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 599
+Elapsed time: 867.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 600
+Elapsed time: 869.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 601
+Elapsed time: 870.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 602
+Elapsed time: 872.169
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 603
+Elapsed time: 873.602
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 604
+Elapsed time: 875.007
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 605
+Elapsed time: 876.417
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 606
+Elapsed time: 877.826
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 607
+Elapsed time: 879.246
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 608
+Elapsed time: 880.658
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 609
+Elapsed time: 882.073
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 610
+Elapsed time: 883.495
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 611
+Elapsed time: 884.893
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 612
+Elapsed time: 886.314
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 613
+Elapsed time: 887.731
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 614
+Elapsed time: 889.155
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 615
+Elapsed time: 890.576
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 616
+Elapsed time: 891.998
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 617
+Elapsed time: 893.403
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 618
+Elapsed time: 894.821
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 619
+Elapsed time: 896.226
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 620
+Elapsed time: 897.643
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 621
+Elapsed time: 899.074
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 622
+Elapsed time: 900.494
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 623
+Elapsed time: 901.913
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 624
+Elapsed time: 903.328
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 625
+Elapsed time: 904.744
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 626
+Elapsed time: 906.141
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 627
+Elapsed time: 907.542
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 628
+Elapsed time: 908.959
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 629
+Elapsed time: 910.372
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 630
+Elapsed time: 911.761
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 631
+Elapsed time: 913.161
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 632
+Elapsed time: 914.573
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 633
+Elapsed time: 915.977
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 634
+Elapsed time: 917.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 635
+Elapsed time: 918.777
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 636
+Elapsed time: 920.177
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 637
+Elapsed time: 921.584
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 638
+Elapsed time: 922.991
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 639
+Elapsed time: 924.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 640
+Elapsed time: 925.796
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 641
+Elapsed time: 927.201
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 642
+Elapsed time: 928.613
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 643
+Elapsed time: 930.044
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 644
+Elapsed time: 931.456
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 645
+Elapsed time: 932.871
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 646
+Elapsed time: 934.286
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 647
+Elapsed time: 935.691
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 648
+Elapsed time: 937.105
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 649
+Elapsed time: 938.525
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 650
+Elapsed time: 939.951
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 651
+Elapsed time: 941.373
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 652
+Elapsed time: 942.791
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 653
+Elapsed time: 944.201
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 654
+Elapsed time: 945.623
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 655
+Elapsed time: 947.047
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 656
+Elapsed time: 948.531
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 657
+Elapsed time: 950.025
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 658
+Elapsed time: 951.443
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 659
+Elapsed time: 952.828
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 660
+Elapsed time: 954.261
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 661
+Elapsed time: 955.672
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 662
+Elapsed time: 957.064
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 663
+Elapsed time: 958.475
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 664
+Elapsed time: 959.886
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 665
+Elapsed time: 961.294
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 666
+Elapsed time: 962.714
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 667
+Elapsed time: 964.128
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 668
+Elapsed time: 965.537
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 669
+Elapsed time: 966.959
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 670
+Elapsed time: 968.367
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 671
+Elapsed time: 969.774
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 672
+Elapsed time: 971.191
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 673
+Elapsed time: 972.661
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 674
+Elapsed time: 974.074
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 675
+Elapsed time: 975.506
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 676
+Elapsed time: 976.892
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 677
+Elapsed time: 978.279
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 678
+Elapsed time: 979.695
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 679
+Elapsed time: 981.098
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 680
+Elapsed time: 982.503
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 681
+Elapsed time: 983.906
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 682
+Elapsed time: 985.391
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 683
+Elapsed time: 986.803
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 684
+Elapsed time: 988.215
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 685
+Elapsed time: 989.63
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 686
+Elapsed time: 991.058
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 687
+Elapsed time: 992.434
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 688
+Elapsed time: 993.841
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 689
+Elapsed time: 995.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 690
+Elapsed time: 996.661
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 691
+Elapsed time: 998.074
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 692
+Elapsed time: 999.495
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 693
+Elapsed time: 1000.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 694
+Elapsed time: 1002.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 695
+Elapsed time: 1003.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 696
+Elapsed time: 1005.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 697
+Elapsed time: 1006.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 698
+Elapsed time: 1008.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 699
+Elapsed time: 1009.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 700
+Elapsed time: 1010.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 701
+Elapsed time: 1012.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 702
+Elapsed time: 1013.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 703
+Elapsed time: 1015.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 704
+Elapsed time: 1016.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 705
+Elapsed time: 1017.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 706
+Elapsed time: 1019.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 707
+Elapsed time: 1020.74
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 708
+Elapsed time: 1022.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 709
+Elapsed time: 1023.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 710
+Elapsed time: 1025.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 711
+Elapsed time: 1026.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 712
+Elapsed time: 1027.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 713
+Elapsed time: 1029.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 714
+Elapsed time: 1030.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 715
+Elapsed time: 1032.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 716
+Elapsed time: 1033.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 717
+Elapsed time: 1034.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 718
+Elapsed time: 1036.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 719
+Elapsed time: 1037.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 720
+Elapsed time: 1039.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 721
+Elapsed time: 1040.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 722
+Elapsed time: 1041.88
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 723
+Elapsed time: 1043.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 724
+Elapsed time: 1044.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 725
+Elapsed time: 1046.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 726
+Elapsed time: 1047.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 727
+Elapsed time: 1048.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 728
+Elapsed time: 1050.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 729
+Elapsed time: 1051.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 730
+Elapsed time: 1053.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 731
+Elapsed time: 1054.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 732
+Elapsed time: 1056
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 733
+Elapsed time: 1057.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 734
+Elapsed time: 1058.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 735
+Elapsed time: 1060.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 736
+Elapsed time: 1061.59
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 737
+Elapsed time: 1063.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 738
+Elapsed time: 1064.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 739
+Elapsed time: 1065.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 740
+Elapsed time: 1067.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 741
+Elapsed time: 1068.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 742
+Elapsed time: 1070.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 743
+Elapsed time: 1071.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 744
+Elapsed time: 1072.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 745
+Elapsed time: 1074.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 746
+Elapsed time: 1075.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 747
+Elapsed time: 1077.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 748
+Elapsed time: 1078.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 749
+Elapsed time: 1079.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 750
+Elapsed time: 1081.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 751
+Elapsed time: 1082.67
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 752
+Elapsed time: 1084.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 753
+Elapsed time: 1085.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 754
+Elapsed time: 1086.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 755
+Elapsed time: 1088.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 756
+Elapsed time: 1089.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 757
+Elapsed time: 1091.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 758
+Elapsed time: 1092.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 759
+Elapsed time: 1093.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 760
+Elapsed time: 1095.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 761
+Elapsed time: 1096.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 762
+Elapsed time: 1098.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 763
+Elapsed time: 1099.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 764
+Elapsed time: 1100.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 765
+Elapsed time: 1102.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 766
+Elapsed time: 1103.5
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 767
+Elapsed time: 1104.88
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 768
+Elapsed time: 1106.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 769
+Elapsed time: 1107.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 770
+Elapsed time: 1109.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 771
+Elapsed time: 1110.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 772
+Elapsed time: 1111.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 773
+Elapsed time: 1113.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 774
+Elapsed time: 1114.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 775
+Elapsed time: 1116.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 776
+Elapsed time: 1117.59
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 777
+Elapsed time: 1118.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 778
+Elapsed time: 1120.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 779
+Elapsed time: 1121.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 780
+Elapsed time: 1123.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 781
+Elapsed time: 1124.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 782
+Elapsed time: 1126.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 783
+Elapsed time: 1127.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 784
+Elapsed time: 1128.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 785
+Elapsed time: 1130.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 786
+Elapsed time: 1131.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 787
+Elapsed time: 1133.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 788
+Elapsed time: 1134.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 789
+Elapsed time: 1135.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 790
+Elapsed time: 1137.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 791
+Elapsed time: 1138.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 792
+Elapsed time: 1140.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 793
+Elapsed time: 1141.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 794
+Elapsed time: 1143.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 795
+Elapsed time: 1144.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 796
+Elapsed time: 1145.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 797
+Elapsed time: 1147.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 798
+Elapsed time: 1148.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 799
+Elapsed time: 1150.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 800
+Elapsed time: 1151.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 801
+Elapsed time: 1152.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 802
+Elapsed time: 1154.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 803
+Elapsed time: 1155.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 804
+Elapsed time: 1157.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 805
+Elapsed time: 1158.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 806
+Elapsed time: 1159.88
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 807
+Elapsed time: 1161.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 808
+Elapsed time: 1162.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 809
+Elapsed time: 1164.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 810
+Elapsed time: 1165.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 811
+Elapsed time: 1167
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 812
+Elapsed time: 1168.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 813
+Elapsed time: 1169.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 814
+Elapsed time: 1171.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 815
+Elapsed time: 1172.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 816
+Elapsed time: 1174.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 817
+Elapsed time: 1175.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 818
+Elapsed time: 1176.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 819
+Elapsed time: 1178.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 820
+Elapsed time: 1179.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 821
+Elapsed time: 1181.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 822
+Elapsed time: 1182.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 823
+Elapsed time: 1183.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 824
+Elapsed time: 1185.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 825
+Elapsed time: 1186.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 826
+Elapsed time: 1188.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 827
+Elapsed time: 1189.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 828
+Elapsed time: 1190.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 829
+Elapsed time: 1192.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 830
+Elapsed time: 1193.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 831
+Elapsed time: 1195.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 832
+Elapsed time: 1196.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 833
+Elapsed time: 1197.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 834
+Elapsed time: 1199.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 835
+Elapsed time: 1200.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 836
+Elapsed time: 1202.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 837
+Elapsed time: 1203.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 838
+Elapsed time: 1204.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 839
+Elapsed time: 1206.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 840
+Elapsed time: 1207.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 841
+Elapsed time: 1209.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 842
+Elapsed time: 1210.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 843
+Elapsed time: 1211.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 844
+Elapsed time: 1213.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 845
+Elapsed time: 1214.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 846
+Elapsed time: 1216.21
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 847
+Elapsed time: 1217.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 848
+Elapsed time: 1219.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 849
+Elapsed time: 1220.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 850
+Elapsed time: 1221.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 851
+Elapsed time: 1223.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 852
+Elapsed time: 1224.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 853
+Elapsed time: 1226.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 854
+Elapsed time: 1227.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 855
+Elapsed time: 1228.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 856
+Elapsed time: 1230.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 857
+Elapsed time: 1231.8
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 858
+Elapsed time: 1233.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 859
+Elapsed time: 1234.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 860
+Elapsed time: 1236.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 861
+Elapsed time: 1237.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 862
+Elapsed time: 1238.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 863
+Elapsed time: 1240.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 864
+Elapsed time: 1241.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 865
+Elapsed time: 1243.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 866
+Elapsed time: 1244.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 867
+Elapsed time: 1246.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 868
+Elapsed time: 1247.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 869
+Elapsed time: 1248.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 870
+Elapsed time: 1250.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 871
+Elapsed time: 1251.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 872
+Elapsed time: 1253.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 873
+Elapsed time: 1254.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 874
+Elapsed time: 1255.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 875
+Elapsed time: 1257.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 876
+Elapsed time: 1258.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 877
+Elapsed time: 1260.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 878
+Elapsed time: 1261.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 879
+Elapsed time: 1262.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 880
+Elapsed time: 1264.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 881
+Elapsed time: 1265.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 882
+Elapsed time: 1266.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 883
+Elapsed time: 1268.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 884
+Elapsed time: 1269.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 885
+Elapsed time: 1271.17
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 886
+Elapsed time: 1272.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 887
+Elapsed time: 1273.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 888
+Elapsed time: 1275.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 889
+Elapsed time: 1276.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 890
+Elapsed time: 1278.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 891
+Elapsed time: 1279.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 892
+Elapsed time: 1280.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 893
+Elapsed time: 1282.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 894
+Elapsed time: 1283.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 895
+Elapsed time: 1285.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 896
+Elapsed time: 1286.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 897
+Elapsed time: 1288
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 898
+Elapsed time: 1289.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 899
+Elapsed time: 1290.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 900
+Elapsed time: 1292.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 901
+Elapsed time: 1293.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 902
+Elapsed time: 1294.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 903
+Elapsed time: 1296.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 904
+Elapsed time: 1297.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 905
+Elapsed time: 1299.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 906
+Elapsed time: 1300.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 907
+Elapsed time: 1301.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 908
+Elapsed time: 1303.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 909
+Elapsed time: 1304.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 910
+Elapsed time: 1306.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 911
+Elapsed time: 1307.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 912
+Elapsed time: 1308.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 913
+Elapsed time: 1310.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 914
+Elapsed time: 1311.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 915
+Elapsed time: 1313.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 916
+Elapsed time: 1314.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 917
+Elapsed time: 1315.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 918
+Elapsed time: 1317.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 919
+Elapsed time: 1318.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 920
+Elapsed time: 1320.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 921
+Elapsed time: 1321.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 922
+Elapsed time: 1322.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 923
+Elapsed time: 1324.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 924
+Elapsed time: 1325.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 925
+Elapsed time: 1327.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 926
+Elapsed time: 1328.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 927
+Elapsed time: 1329.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 928
+Elapsed time: 1331.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 929
+Elapsed time: 1332.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 930
+Elapsed time: 1334.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 931
+Elapsed time: 1335.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 932
+Elapsed time: 1337
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 933
+Elapsed time: 1338.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 934
+Elapsed time: 1339.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 935
+Elapsed time: 1341.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 936
+Elapsed time: 1342.59
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 937
+Elapsed time: 1343.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 938
+Elapsed time: 1345.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 939
+Elapsed time: 1346.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 940
+Elapsed time: 1348.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 941
+Elapsed time: 1349.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 942
+Elapsed time: 1351.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 943
+Elapsed time: 1352.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 944
+Elapsed time: 1353.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 945
+Elapsed time: 1355.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 946
+Elapsed time: 1356.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 947
+Elapsed time: 1358.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 948
+Elapsed time: 1359.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 949
+Elapsed time: 1360.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 950
+Elapsed time: 1362.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 951
+Elapsed time: 1363.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 952
+Elapsed time: 1365.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 953
+Elapsed time: 1366.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 954
+Elapsed time: 1368.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 955
+Elapsed time: 1369.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 956
+Elapsed time: 1370.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 957
+Elapsed time: 1372.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 958
+Elapsed time: 1373.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 959
+Elapsed time: 1375.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 960
+Elapsed time: 1376.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 961
+Elapsed time: 1377.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 962
+Elapsed time: 1379.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 963
+Elapsed time: 1380.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 964
+Elapsed time: 1382.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 965
+Elapsed time: 1383.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 966
+Elapsed time: 1384.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 967
+Elapsed time: 1386.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 968
+Elapsed time: 1387.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 969
+Elapsed time: 1389.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 970
+Elapsed time: 1390.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 971
+Elapsed time: 1391.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 972
+Elapsed time: 1393.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 973
+Elapsed time: 1394.74
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 974
+Elapsed time: 1396.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 975
+Elapsed time: 1397.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 976
+Elapsed time: 1398.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 977
+Elapsed time: 1400.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 978
+Elapsed time: 1401.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 979
+Elapsed time: 1403.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 980
+Elapsed time: 1404.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 981
+Elapsed time: 1405.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 982
+Elapsed time: 1407.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 983
+Elapsed time: 1408.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 984
+Elapsed time: 1410.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 985
+Elapsed time: 1411.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 986
+Elapsed time: 1412.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 987
+Elapsed time: 1414.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 988
+Elapsed time: 1415.8
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 989
+Elapsed time: 1417.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 990
+Elapsed time: 1418.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 991
+Elapsed time: 1420.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 992
+Elapsed time: 1421.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 993
+Elapsed time: 1422.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 994
+Elapsed time: 1424.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 995
+Elapsed time: 1425.63
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 996
+Elapsed time: 1427.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 997
+Elapsed time: 1428.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 998
+Elapsed time: 1429.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 999
+Elapsed time: 1431.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1000
+Elapsed time: 1432.67
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1001
+Elapsed time: 1434.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1002
+Elapsed time: 1435.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1003
+Elapsed time: 1436.88
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1004
+Elapsed time: 1438.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1005
+Elapsed time: 1439.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1006
+Elapsed time: 1441.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1007
+Elapsed time: 1442.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1008
+Elapsed time: 1443.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1009
+Elapsed time: 1445.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1010
+Elapsed time: 1446.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1011
+Elapsed time: 1448.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1012
+Elapsed time: 1449.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1013
+Elapsed time: 1450.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1014
+Elapsed time: 1452.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1015
+Elapsed time: 1453.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1016
+Elapsed time: 1455.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1017
+Elapsed time: 1456.5
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1018
+Elapsed time: 1457.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1019
+Elapsed time: 1459.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1020
+Elapsed time: 1460.74
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1021
+Elapsed time: 1462.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1022
+Elapsed time: 1463.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1023
+Elapsed time: 1464.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1024
+Elapsed time: 1466.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1025
+Elapsed time: 1467.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1026
+Elapsed time: 1469.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1027
+Elapsed time: 1470.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1028
+Elapsed time: 1471.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1029
+Elapsed time: 1473.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1030
+Elapsed time: 1474.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1031
+Elapsed time: 1476.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1032
+Elapsed time: 1477.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1033
+Elapsed time: 1479.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1034
+Elapsed time: 1480.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1035
+Elapsed time: 1481.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1036
+Elapsed time: 1483.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1037
+Elapsed time: 1484.67
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1038
+Elapsed time: 1486.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1039
+Elapsed time: 1487.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1040
+Elapsed time: 1488.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1041
+Elapsed time: 1490.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1042
+Elapsed time: 1491.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1043
+Elapsed time: 1493.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1044
+Elapsed time: 1494.5
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1045
+Elapsed time: 1495.88
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1046
+Elapsed time: 1497.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1047
+Elapsed time: 1498.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1048
+Elapsed time: 1499.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1049
+Elapsed time: 1501.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1050
+Elapsed time: 1502.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1051
+Elapsed time: 1504.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1052
+Elapsed time: 1505.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1053
+Elapsed time: 1506.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1054
+Elapsed time: 1508.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1055
+Elapsed time: 1509.74
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1056
+Elapsed time: 1511.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1057
+Elapsed time: 1512.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1058
+Elapsed time: 1513.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1059
+Elapsed time: 1515.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1060
+Elapsed time: 1516.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1061
+Elapsed time: 1518.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1062
+Elapsed time: 1519.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1063
+Elapsed time: 1521.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1064
+Elapsed time: 1522.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1065
+Elapsed time: 1523.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1066
+Elapsed time: 1525.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1067
+Elapsed time: 1526.67
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1068
+Elapsed time: 1528.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1069
+Elapsed time: 1529.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1070
+Elapsed time: 1530.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1071
+Elapsed time: 1532.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1072
+Elapsed time: 1533.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1073
+Elapsed time: 1535.17
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1074
+Elapsed time: 1536.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1075
+Elapsed time: 1537.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1076
+Elapsed time: 1539.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1077
+Elapsed time: 1540.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1078
+Elapsed time: 1542.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1079
+Elapsed time: 1543.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1080
+Elapsed time: 1544.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1081
+Elapsed time: 1546.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1082
+Elapsed time: 1547.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1083
+Elapsed time: 1549.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1084
+Elapsed time: 1550.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1085
+Elapsed time: 1551.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1086
+Elapsed time: 1553.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1087
+Elapsed time: 1554.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1088
+Elapsed time: 1556.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1089
+Elapsed time: 1557.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1090
+Elapsed time: 1558.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1091
+Elapsed time: 1560.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1092
+Elapsed time: 1561.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1093
+Elapsed time: 1563.24
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1094
+Elapsed time: 1564.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1095
+Elapsed time: 1566.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1096
+Elapsed time: 1567.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1097
+Elapsed time: 1568.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1098
+Elapsed time: 1570.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1099
+Elapsed time: 1571.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1100
+Elapsed time: 1573.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1101
+Elapsed time: 1574.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1102
+Elapsed time: 1575.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1103
+Elapsed time: 1577.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1104
+Elapsed time: 1578.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1105
+Elapsed time: 1580.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1106
+Elapsed time: 1581.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1107
+Elapsed time: 1583.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1108
+Elapsed time: 1584.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1109
+Elapsed time: 1585.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1110
+Elapsed time: 1587.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1111
+Elapsed time: 1588.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1112
+Elapsed time: 1590.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1113
+Elapsed time: 1591.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1114
+Elapsed time: 1592.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1115
+Elapsed time: 1594.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1116
+Elapsed time: 1595.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1117
+Elapsed time: 1597.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1118
+Elapsed time: 1598.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1119
+Elapsed time: 1599.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1120
+Elapsed time: 1601.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1121
+Elapsed time: 1602.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1122
+Elapsed time: 1604.21
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1123
+Elapsed time: 1605.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1124
+Elapsed time: 1607.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1125
+Elapsed time: 1608.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1126
+Elapsed time: 1609.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1127
+Elapsed time: 1611.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1128
+Elapsed time: 1612.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1129
+Elapsed time: 1614.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1130
+Elapsed time: 1615.5
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1131
+Elapsed time: 1616.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1132
+Elapsed time: 1618.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1133
+Elapsed time: 1619.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1134
+Elapsed time: 1621
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1135
+Elapsed time: 1622.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1136
+Elapsed time: 1623.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1137
+Elapsed time: 1625.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1138
+Elapsed time: 1626.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1139
+Elapsed time: 1627.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1140
+Elapsed time: 1629.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1141
+Elapsed time: 1630.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1142
+Elapsed time: 1632.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1143
+Elapsed time: 1633.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1144
+Elapsed time: 1635
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1145
+Elapsed time: 1636.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1146
+Elapsed time: 1637.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1147
+Elapsed time: 1639.21
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1148
+Elapsed time: 1640.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1149
+Elapsed time: 1642.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1150
+Elapsed time: 1643.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1151
+Elapsed time: 1644.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1152
+Elapsed time: 1646.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1153
+Elapsed time: 1647.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1154
+Elapsed time: 1649.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1155
+Elapsed time: 1650.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1156
+Elapsed time: 1651.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1157
+Elapsed time: 1653.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1158
+Elapsed time: 1654.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1159
+Elapsed time: 1656.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1160
+Elapsed time: 1657.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1161
+Elapsed time: 1658.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1162
+Elapsed time: 1660.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1163
+Elapsed time: 1661.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1164
+Elapsed time: 1663.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1165
+Elapsed time: 1664.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1166
+Elapsed time: 1665.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1167
+Elapsed time: 1667.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1168
+Elapsed time: 1668.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1169
+Elapsed time: 1670.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1170
+Elapsed time: 1671.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1171
+Elapsed time: 1672.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1172
+Elapsed time: 1674.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1173
+Elapsed time: 1675.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1174
+Elapsed time: 1677.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1175
+Elapsed time: 1678.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1176
+Elapsed time: 1680.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1177
+Elapsed time: 1681.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1178
+Elapsed time: 1682.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1179
+Elapsed time: 1684.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1180
+Elapsed time: 1685.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1181
+Elapsed time: 1686.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1182
+Elapsed time: 1688.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1183
+Elapsed time: 1689.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1184
+Elapsed time: 1691.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1185
+Elapsed time: 1692.59
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1186
+Elapsed time: 1694.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1187
+Elapsed time: 1695.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1188
+Elapsed time: 1696.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1189
+Elapsed time: 1698.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1190
+Elapsed time: 1699.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1191
+Elapsed time: 1701.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1192
+Elapsed time: 1702.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1193
+Elapsed time: 1703.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1194
+Elapsed time: 1705.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1195
+Elapsed time: 1706.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1196
+Elapsed time: 1708.17
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1197
+Elapsed time: 1709.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1198
+Elapsed time: 1711
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1199
+Elapsed time: 1712.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1200
+Elapsed time: 1713.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1201
+Elapsed time: 1715.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1202
+Elapsed time: 1716.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1203
+Elapsed time: 1717.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1204
+Elapsed time: 1719.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1205
+Elapsed time: 1720.8
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1206
+Elapsed time: 1722.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1207
+Elapsed time: 1723.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1208
+Elapsed time: 1725.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1209
+Elapsed time: 1726.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1210
+Elapsed time: 1727.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1211
+Elapsed time: 1729.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1212
+Elapsed time: 1730.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1213
+Elapsed time: 1732.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1214
+Elapsed time: 1733.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1215
+Elapsed time: 1734.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1216
+Elapsed time: 1736.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1217
+Elapsed time: 1737.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1218
+Elapsed time: 1739.17
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1219
+Elapsed time: 1740.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1220
+Elapsed time: 1742
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1221
+Elapsed time: 1743.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1222
+Elapsed time: 1744.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1223
+Elapsed time: 1746.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1224
+Elapsed time: 1747.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1225
+Elapsed time: 1749.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1226
+Elapsed time: 1750.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1227
+Elapsed time: 1751.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1228
+Elapsed time: 1753.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1229
+Elapsed time: 1754.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1230
+Elapsed time: 1756.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1231
+Elapsed time: 1757.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1232
+Elapsed time: 1758.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1233
+Elapsed time: 1760.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1234
+Elapsed time: 1761.8
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1235
+Elapsed time: 1763.21
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1236
+Elapsed time: 1764.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1237
+Elapsed time: 1766.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1238
+Elapsed time: 1767.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1239
+Elapsed time: 1768.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1240
+Elapsed time: 1770.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1241
+Elapsed time: 1771.67
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1242
+Elapsed time: 1773.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1243
+Elapsed time: 1774.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1244
+Elapsed time: 1775.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1245
+Elapsed time: 1777.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1246
+Elapsed time: 1778.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1247
+Elapsed time: 1780.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1248
+Elapsed time: 1781.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1249
+Elapsed time: 1782.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1250
+Elapsed time: 1784.24
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1251
+Elapsed time: 1785.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1252
+Elapsed time: 1787.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1253
+Elapsed time: 1788.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1254
+Elapsed time: 1789.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1255
+Elapsed time: 1791.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1256
+Elapsed time: 1792.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1257
+Elapsed time: 1794.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1258
+Elapsed time: 1795.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1259
+Elapsed time: 1796.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1260
+Elapsed time: 1798.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1261
+Elapsed time: 1799.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1262
+Elapsed time: 1801.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1263
+Elapsed time: 1802.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1264
+Elapsed time: 1803.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1265
+Elapsed time: 1805.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1266
+Elapsed time: 1806.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1267
+Elapsed time: 1808.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1268
+Elapsed time: 1809.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1269
+Elapsed time: 1810.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1270
+Elapsed time: 1812.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1271
+Elapsed time: 1813.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1272
+Elapsed time: 1815.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1273
+Elapsed time: 1816.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1274
+Elapsed time: 1817.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1275
+Elapsed time: 1819.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1276
+Elapsed time: 1820.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1277
+Elapsed time: 1822.2
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1278
+Elapsed time: 1823.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1279
+Elapsed time: 1825.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1280
+Elapsed time: 1826.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1281
+Elapsed time: 1827.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1282
+Elapsed time: 1829.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1283
+Elapsed time: 1830.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1284
+Elapsed time: 1832.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1285
+Elapsed time: 1833.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1286
+Elapsed time: 1834.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1287
+Elapsed time: 1836.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1288
+Elapsed time: 1837.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1289
+Elapsed time: 1838.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1290
+Elapsed time: 1840.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1291
+Elapsed time: 1841.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1292
+Elapsed time: 1843.17
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1293
+Elapsed time: 1844.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1294
+Elapsed time: 1845.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1295
+Elapsed time: 1847.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1296
+Elapsed time: 1848.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1297
+Elapsed time: 1850.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1298
+Elapsed time: 1851.59
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1299
+Elapsed time: 1852.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1300
+Elapsed time: 1854.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1301
+Elapsed time: 1855.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1302
+Elapsed time: 1857.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1303
+Elapsed time: 1858.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1304
+Elapsed time: 1859.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1305
+Elapsed time: 1861.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1306
+Elapsed time: 1862.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1307
+Elapsed time: 1864.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1308
+Elapsed time: 1865.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1309
+Elapsed time: 1866.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1310
+Elapsed time: 1868.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1311
+Elapsed time: 1869.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1312
+Elapsed time: 1871.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1313
+Elapsed time: 1872.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1314
+Elapsed time: 1873.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1315
+Elapsed time: 1875.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1316
+Elapsed time: 1876.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1317
+Elapsed time: 1878.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1318
+Elapsed time: 1879.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1319
+Elapsed time: 1881.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1320
+Elapsed time: 1882.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1321
+Elapsed time: 1883.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1322
+Elapsed time: 1885.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1323
+Elapsed time: 1886.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1324
+Elapsed time: 1888.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1325
+Elapsed time: 1889.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1326
+Elapsed time: 1890.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1327
+Elapsed time: 1892.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1328
+Elapsed time: 1893.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1329
+Elapsed time: 1894.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1330
+Elapsed time: 1896.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1331
+Elapsed time: 1897.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1332
+Elapsed time: 1899.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1333
+Elapsed time: 1900.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1334
+Elapsed time: 1902.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1335
+Elapsed time: 1903.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1336
+Elapsed time: 1904.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1337
+Elapsed time: 1906.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1338
+Elapsed time: 1907.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1339
+Elapsed time: 1909.14
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1340
+Elapsed time: 1910.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1341
+Elapsed time: 1911.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1342
+Elapsed time: 1913.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1343
+Elapsed time: 1914.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1344
+Elapsed time: 1916.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1345
+Elapsed time: 1917.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1346
+Elapsed time: 1918.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1347
+Elapsed time: 1920.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1348
+Elapsed time: 1921.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1349
+Elapsed time: 1923.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1350
+Elapsed time: 1924.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1351
+Elapsed time: 1925.88
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1352
+Elapsed time: 1927.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1353
+Elapsed time: 1928.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1354
+Elapsed time: 1930.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1355
+Elapsed time: 1931.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1356
+Elapsed time: 1932.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1357
+Elapsed time: 1934.24
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1358
+Elapsed time: 1935.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1359
+Elapsed time: 1937.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1360
+Elapsed time: 1938.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1361
+Elapsed time: 1939.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1362
+Elapsed time: 1941.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1363
+Elapsed time: 1942.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1364
+Elapsed time: 1944.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1365
+Elapsed time: 1945.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1366
+Elapsed time: 1946.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1367
+Elapsed time: 1948.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1368
+Elapsed time: 1949.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1369
+Elapsed time: 1951.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1370
+Elapsed time: 1952.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1371
+Elapsed time: 1953.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1372
+Elapsed time: 1955.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1373
+Elapsed time: 1956.63
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1374
+Elapsed time: 1958.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1375
+Elapsed time: 1959.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1376
+Elapsed time: 1960.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1377
+Elapsed time: 1962.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1378
+Elapsed time: 1963.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1379
+Elapsed time: 1965.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1380
+Elapsed time: 1966.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1381
+Elapsed time: 1967.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1382
+Elapsed time: 1969.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1383
+Elapsed time: 1970.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1384
+Elapsed time: 1972.01
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1385
+Elapsed time: 1973.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1386
+Elapsed time: 1974.74
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1387
+Elapsed time: 1976.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1388
+Elapsed time: 1977.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1389
+Elapsed time: 1978.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1390
+Elapsed time: 1980.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1391
+Elapsed time: 1981.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1392
+Elapsed time: 1983.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1393
+Elapsed time: 1984.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1394
+Elapsed time: 1985.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1395
+Elapsed time: 1987.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1396
+Elapsed time: 1988.67
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1397
+Elapsed time: 1990.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1398
+Elapsed time: 1991.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1399
+Elapsed time: 1992.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1400
+Elapsed time: 1994.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1401
+Elapsed time: 1995.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1402
+Elapsed time: 1997.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1403
+Elapsed time: 1998.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1404
+Elapsed time: 1999.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1405
+Elapsed time: 2001.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1406
+Elapsed time: 2002.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1407
+Elapsed time: 2004.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1408
+Elapsed time: 2005.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1409
+Elapsed time: 2006.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1410
+Elapsed time: 2008.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1411
+Elapsed time: 2009.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1412
+Elapsed time: 2011.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1413
+Elapsed time: 2012.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1414
+Elapsed time: 2013.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1415
+Elapsed time: 2015.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1416
+Elapsed time: 2016.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1417
+Elapsed time: 2018.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1418
+Elapsed time: 2019.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1419
+Elapsed time: 2020.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1420
+Elapsed time: 2022.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1421
+Elapsed time: 2023.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1422
+Elapsed time: 2025.23
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1423
+Elapsed time: 2026.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1424
+Elapsed time: 2028.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1425
+Elapsed time: 2029.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1426
+Elapsed time: 2030.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1427
+Elapsed time: 2032.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1428
+Elapsed time: 2033.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1429
+Elapsed time: 2035.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1430
+Elapsed time: 2036.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1431
+Elapsed time: 2037.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1432
+Elapsed time: 2039.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1433
+Elapsed time: 2040.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1434
+Elapsed time: 2042.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1435
+Elapsed time: 2043.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1436
+Elapsed time: 2044.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1437
+Elapsed time: 2046.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1438
+Elapsed time: 2047.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1439
+Elapsed time: 2049.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1440
+Elapsed time: 2050.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1441
+Elapsed time: 2051.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1442
+Elapsed time: 2053.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1443
+Elapsed time: 2054.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1444
+Elapsed time: 2056.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1445
+Elapsed time: 2057.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1446
+Elapsed time: 2058.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1447
+Elapsed time: 2060.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1448
+Elapsed time: 2061.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1449
+Elapsed time: 2063.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1450
+Elapsed time: 2064.63
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1451
+Elapsed time: 2066.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1452
+Elapsed time: 2067.46
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1453
+Elapsed time: 2068.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1454
+Elapsed time: 2070.21
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1455
+Elapsed time: 2071.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1456
+Elapsed time: 2072.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1457
+Elapsed time: 2074.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1458
+Elapsed time: 2075.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1459
+Elapsed time: 2077.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1460
+Elapsed time: 2078.51
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1461
+Elapsed time: 2079.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1462
+Elapsed time: 2081.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1463
+Elapsed time: 2082.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1464
+Elapsed time: 2084.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1465
+Elapsed time: 2085.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1466
+Elapsed time: 2086.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1467
+Elapsed time: 2088.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1468
+Elapsed time: 2089.71
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1469
+Elapsed time: 2091.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1470
+Elapsed time: 2092.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1471
+Elapsed time: 2093.92
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1472
+Elapsed time: 2095.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1473
+Elapsed time: 2096.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1474
+Elapsed time: 2098.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1475
+Elapsed time: 2099.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1476
+Elapsed time: 2100.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1477
+Elapsed time: 2102.26
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1478
+Elapsed time: 2103.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1479
+Elapsed time: 2105.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1480
+Elapsed time: 2106.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1481
+Elapsed time: 2107.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1482
+Elapsed time: 2109.24
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1483
+Elapsed time: 2110.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1484
+Elapsed time: 2112.06
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1485
+Elapsed time: 2113.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1486
+Elapsed time: 2114.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1487
+Elapsed time: 2116.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1488
+Elapsed time: 2117.67
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1489
+Elapsed time: 2119.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1490
+Elapsed time: 2120.5
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1491
+Elapsed time: 2121.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1492
+Elapsed time: 2123.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1493
+Elapsed time: 2124.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1494
+Elapsed time: 2126.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1495
+Elapsed time: 2127.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1496
+Elapsed time: 2128.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1497
+Elapsed time: 2130.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1498
+Elapsed time: 2131.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1499
+Elapsed time: 2133.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1500
+Elapsed time: 2134.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1501
+Elapsed time: 2135.98
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1502
+Elapsed time: 2137.39
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1503
+Elapsed time: 2138.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1504
+Elapsed time: 2140.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1505
+Elapsed time: 2141.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1506
+Elapsed time: 2142.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1507
+Elapsed time: 2144.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1508
+Elapsed time: 2145.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1509
+Elapsed time: 2147.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1510
+Elapsed time: 2148.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1511
+Elapsed time: 2149.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1512
+Elapsed time: 2151.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1513
+Elapsed time: 2152.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1514
+Elapsed time: 2154.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1515
+Elapsed time: 2155.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1516
+Elapsed time: 2156.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1517
+Elapsed time: 2158.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1518
+Elapsed time: 2159.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1519
+Elapsed time: 2161.21
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1520
+Elapsed time: 2162.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1521
+Elapsed time: 2164.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1522
+Elapsed time: 2165.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1523
+Elapsed time: 2166.89
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1524
+Elapsed time: 2168.28
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1525
+Elapsed time: 2169.68
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1526
+Elapsed time: 2171.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1527
+Elapsed time: 2172.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1528
+Elapsed time: 2173.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1529
+Elapsed time: 2175.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1530
+Elapsed time: 2176.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1531
+Elapsed time: 2178.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1532
+Elapsed time: 2179.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1533
+Elapsed time: 2180.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1534
+Elapsed time: 2182.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1535
+Elapsed time: 2183.8
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1536
+Elapsed time: 2185.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1537
+Elapsed time: 2186.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1538
+Elapsed time: 2188.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1539
+Elapsed time: 2189.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1540
+Elapsed time: 2190.88
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1541
+Elapsed time: 2192.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1542
+Elapsed time: 2193.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1543
+Elapsed time: 2195.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1544
+Elapsed time: 2196.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1545
+Elapsed time: 2197.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1546
+Elapsed time: 2199.35
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1547
+Elapsed time: 2200.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1548
+Elapsed time: 2202.1
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1549
+Elapsed time: 2203.47
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1550
+Elapsed time: 2204.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1551
+Elapsed time: 2206.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1552
+Elapsed time: 2207.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1553
+Elapsed time: 2208.97
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1554
+Elapsed time: 2210.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1555
+Elapsed time: 2211.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1556
+Elapsed time: 2213.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1557
+Elapsed time: 2214.6
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1558
+Elapsed time: 2216.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1559
+Elapsed time: 2217.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1560
+Elapsed time: 2218.87
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1561
+Elapsed time: 2220.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1562
+Elapsed time: 2221.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1563
+Elapsed time: 2223.16
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1564
+Elapsed time: 2224.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1565
+Elapsed time: 2225.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1566
+Elapsed time: 2227.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1567
+Elapsed time: 2228.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1568
+Elapsed time: 2230.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1569
+Elapsed time: 2231.63
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1570
+Elapsed time: 2233.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1571
+Elapsed time: 2234.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1572
+Elapsed time: 2235.86
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1573
+Elapsed time: 2237.29
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1574
+Elapsed time: 2238.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1575
+Elapsed time: 2240.07
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1576
+Elapsed time: 2241.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1577
+Elapsed time: 2242.79
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1578
+Elapsed time: 2244.17
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1579
+Elapsed time: 2245.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1580
+Elapsed time: 2247
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1581
+Elapsed time: 2248.42
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1582
+Elapsed time: 2249.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1583
+Elapsed time: 2251.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1584
+Elapsed time: 2252.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1585
+Elapsed time: 2254.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1586
+Elapsed time: 2255.49
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1587
+Elapsed time: 2256.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1588
+Elapsed time: 2258.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1589
+Elapsed time: 2259.74
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1590
+Elapsed time: 2261.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1591
+Elapsed time: 2262.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1592
+Elapsed time: 2263.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1593
+Elapsed time: 2265.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1594
+Elapsed time: 2266.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1595
+Elapsed time: 2268.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1596
+Elapsed time: 2269.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1597
+Elapsed time: 2270.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1598
+Elapsed time: 2272.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1599
+Elapsed time: 2273.82
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1600
+Elapsed time: 2275.21
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1601
+Elapsed time: 2276.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1602
+Elapsed time: 2278.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1603
+Elapsed time: 2279.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1604
+Elapsed time: 2280.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1605
+Elapsed time: 2282.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1606
+Elapsed time: 2283.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1607
+Elapsed time: 2285.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1608
+Elapsed time: 2286.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1609
+Elapsed time: 2287.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1610
+Elapsed time: 2289.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1611
+Elapsed time: 2290.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1612
+Elapsed time: 2292.17
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1613
+Elapsed time: 2293.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1614
+Elapsed time: 2295
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1615
+Elapsed time: 2296.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1616
+Elapsed time: 2297.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1617
+Elapsed time: 2299.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1618
+Elapsed time: 2300.66
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1619
+Elapsed time: 2302.08
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1620
+Elapsed time: 2303.5
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1621
+Elapsed time: 2304.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1622
+Elapsed time: 2306.3
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1623
+Elapsed time: 2307.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1624
+Elapsed time: 2309.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1625
+Elapsed time: 2310.53
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1626
+Elapsed time: 2311.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1627
+Elapsed time: 2313.32
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1628
+Elapsed time: 2314.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1629
+Elapsed time: 2316.12
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1630
+Elapsed time: 2317.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1631
+Elapsed time: 2318.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1632
+Elapsed time: 2320.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1633
+Elapsed time: 2321.75
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1634
+Elapsed time: 2323.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1635
+Elapsed time: 2324.56
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1636
+Elapsed time: 2325.96
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1637
+Elapsed time: 2327.37
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1638
+Elapsed time: 2328.78
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1639
+Elapsed time: 2330.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1640
+Elapsed time: 2331.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1641
+Elapsed time: 2333.02
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1642
+Elapsed time: 2334.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1643
+Elapsed time: 2335.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1644
+Elapsed time: 2337.22
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1645
+Elapsed time: 2338.64
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1646
+Elapsed time: 2340.05
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1647
+Elapsed time: 2341.45
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1648
+Elapsed time: 2342.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1649
+Elapsed time: 2344.25
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1650
+Elapsed time: 2345.62
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1651
+Elapsed time: 2347.03
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1652
+Elapsed time: 2348.43
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1653
+Elapsed time: 2349.84
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1654
+Elapsed time: 2351.24
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1655
+Elapsed time: 2352.61
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1656
+Elapsed time: 2353.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1657
+Elapsed time: 2355.34
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1658
+Elapsed time: 2356.74
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1659
+Elapsed time: 2358.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1660
+Elapsed time: 2359.57
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1661
+Elapsed time: 2360.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1662
+Elapsed time: 2362.41
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1663
+Elapsed time: 2363.81
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1664
+Elapsed time: 2365.19
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1665
+Elapsed time: 2366.58
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1666
+Elapsed time: 2367.99
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1667
+Elapsed time: 2369.4
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1668
+Elapsed time: 2370.83
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1669
+Elapsed time: 2372.24
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1670
+Elapsed time: 2373.65
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1671
+Elapsed time: 2375.04
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1672
+Elapsed time: 2376.44
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1673
+Elapsed time: 2377.85
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1674
+Elapsed time: 2379.27
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1675
+Elapsed time: 2380.69
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1676
+Elapsed time: 2382.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1677
+Elapsed time: 2383.5
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1678
+Elapsed time: 2384.91
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1679
+Elapsed time: 2386.33
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1680
+Elapsed time: 2387.73
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1681
+Elapsed time: 2389.13
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1682
+Elapsed time: 2390.54
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1683
+Elapsed time: 2391.93
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1684
+Elapsed time: 2393.31
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1685
+Elapsed time: 2394.7
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1686
+Elapsed time: 2396.11
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1687
+Elapsed time: 2397.52
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1688
+Elapsed time: 2398.94
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1689
+Elapsed time: 2400.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1690
+Elapsed time: 2401.77
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1691
+Elapsed time: 2403.18
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1692
+Elapsed time: 2404.59
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1693
+Elapsed time: 2406
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1694
+Elapsed time: 2407.38
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1695
+Elapsed time: 2408.76
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1696
+Elapsed time: 2410.15
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1697
+Elapsed time: 2411.55
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1698
+Elapsed time: 2412.95
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1699
+Elapsed time: 2414.36
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1700
+Elapsed time: 2415.72
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1701
+Elapsed time: 2417.09
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1702
+Elapsed time: 2418.48
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+loop 1703
+Elapsed time: 2419.9
+u: 0, v: 0, alt: 0, dv: 0, first visit: 1
+Stopped timer 2000 at 2397.93 (12173.2 MB, 26001477 rounds)
+The following benchmarks are including preprocessing (offline phase).
+Time = 2421.3 seconds 
+Time2000 = 2397.93 seconds (12173.2 MB, 26001477 rounds)
+Data sent = 12262.7 MB in ~26225922 rounds (party 0 only; use '-v' for more details)
+Global data sent = 36788.1 MB (all parties)
+This program might benefit from some protocol options.
+Consider adding the following at the beginning of your code:
+	program.use_split(3)

@@ -1,0 +1,38 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+Shortest path from node 0 to node 0: 0
+Shortest path from node 0 to node 1: 1
+Shortest path from node 0 to node 2: 2
+Shortest path from node 0 to node 3: 1
+Shortest path from node 0 to node 4: 1
+Shortest path from node 1 to node 0: 999999
+Shortest path from node 1 to node 1: 0
+Shortest path from node 1 to node 2: 2
+Shortest path from node 1 to node 3: 3
+Shortest path from node 1 to node 4: 1
+Shortest path from node 2 to node 0: 999999
+Shortest path from node 2 to node 1: 999999
+Shortest path from node 2 to node 2: 0
+Shortest path from node 2 to node 3: 1
+Shortest path from node 2 to node 4: 999999
+Shortest path from node 3 to node 0: 999999
+Shortest path from node 3 to node 1: 999999
+Shortest path from node 3 to node 2: 999999
+Shortest path from node 3 to node 3: 0
+Shortest path from node 3 to node 4: 999999
+Shortest path from node 4 to node 0: 999999
+Shortest path from node 4 to node 1: 999999
+Shortest path from node 4 to node 2: 1
+Shortest path from node 4 to node 3: 2
+Shortest path from node 4 to node 4: 0
+Rch:[1, 2, 3, 4, 2, 3, 4, 3, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Dst:[1, 2, 1, 1, 2, 3, 1, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Ind:[0, 4, 7, 8, 8, 10]
+The following benchmarks are including preprocessing (offline phase).
+Time = 2.49457 seconds 
+Data sent = 1.36329 MB in ~16928 rounds (party 0 only; use '-v' for more details)
+Global data sent = 4.08986 MB (all parties)
+This program might benefit from some protocol options.
+Consider adding the following at the beginning of your code:
+	program.use_trunc_pr = True
+	program.use_split(3)

@@ -1,0 +1,10 @@
+V_index sint.Array
+W sqrtoram[sint]=sint
+w sint oram size
+n vertex number regint
+M OMatrix[regint]=sint
+
+S seed set sint.Array
+Sn recent seed set size sint
+Vs sint.Array all reachable set
+Vs_len sint reachable set size

@@ -1,0 +1,16 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+get
+Score finish
+Sn:1
+Sn:2
+Sn:3
+S:[344, 287, 187]
+centrality:0.769226
+The following benchmarks are including preprocessing (offline phase).
+Time = 1673.17 seconds 
+Data sent = 2960.73 MB in ~19163201 rounds (party 0 only; use '-v' for more details)
+Global data sent = 8877.91 MB (all parties)
+This program might benefit from some protocol options.
+Consider adding the following at the beginning of your code:
+	program.use_split(3)

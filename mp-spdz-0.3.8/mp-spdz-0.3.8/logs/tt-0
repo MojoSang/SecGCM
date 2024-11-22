@@ -1,0 +1,15 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+Starting timer 100 at 0 (0 MB, 0 rounds) after 2.5647e-05
+Stopped timer 100 at 0.000177215 (0 MB, 0 rounds)
+Starting timer 1000 at 0 (0 MB, 0 rounds) after 1.435e-06
+Stopped timer 1000 at 2.75247 (267.675 MB, 32688 rounds)
+The following benchmarks are including preprocessing (offline phase).
+Time = 2.75439 seconds 
+Time100 = 0.000177215 seconds (0 MB, 0 rounds)
+Time1000 = 2.75247 seconds (267.675 MB, 32688 rounds)
+Data sent = 267.705 MB in ~32718 rounds (party 0 only; use '-v' for more details)
+Global data sent = 536.909 MB (all parties)
+This program might benefit from some protocol options.
+Consider adding the following at the beginning of your code:
+	program.use_split(2)

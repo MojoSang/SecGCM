@@ -1,0 +1,4 @@
+Using statistical security parameter 40
+Trying to run 64-bit computation
+terminate called after throwing an instance of 'input_error'
+  what():  cannot read integer from Player-Data/Input-P1-0, problem with '' after 23311

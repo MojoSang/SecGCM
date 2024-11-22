@@ -1,0 +1,107 @@
+from Compiler.types import *
+from oram import OptimalORAM
+from Compiler.mo_utils import *
+print_ln("get")
+#a got p0 edges
+a=sint.Tensor([78,3])
+a.input_from(0)
+#b got p1 edges
+b=sint.Tensor([58,3])
+b.input_from(1)
+#merge a,b into c
+a1=a.sizes[0]
+b1=b.sizes[0]
+c=sint.Tensor([a1+b1,3])
+for i in range(a1):
+	c[i][:]=a[i][:]
+for i in range(b1):
+	c[a1+i][:]=b[i][:]
+print_ln('get_finfish')
+
+#create Edgelist ORAM store
+e_index=OptimalORAM(34,entry_size=6)
+edges=OptimalORAM(137,entry_size=(6,2,1))
+V_index=OptimalORAM(34,entry_size=6)
+#vertex number
+n=sint(0)
+#first edge ini
+edges[0]=(a[0][1].reveal(),a[0][2].reveal(),0)
+e_index[a[0][0].reveal()]=0
+print_ln('ORAM ini finish')
+@for_range(c.sizes[0])
+def _(i):
+	#consider is the new vertex
+	@if_(contain(V_index,n,c[i][0])==0)
+	def _():
+		e_index[c[i][0].reveal()]=regint(i)
+		V_index[n.reveal()]=c[i][0]
+		n.update(n+1)
+	edges[i]=(c[i][1].reveal(),c[i][2].reveal(),1)
+#the last point to itself
+edges[i]=(c[i-1][0].reveal(),0,1)
+
+print_ln('Edgelist finish')
+print_ln('n:%s',n.reveal())
+
+@for_range(34)
+def _(i):
+	print_ln('%s',V_index[i].reveal())
+
+#get vertex pairs shortest distance
+M=sint.Tensor([34,34])
+p2=sint.Tensor([1054,3])
+p2.input_from(2)
+@for_range(p2.sizes[0])
+def _(k):
+	M[p2[k][0].reveal()][p2[k][1].reveal()]=p2[k][2]
+print_ln('M finish')
+
+Score=OptimalORAM(35,entry_size=6)
+#compute each vertex centrality
+@for_range(n.reveal()-1)
+def _(i):
+	Score[V_index[i]]=centrality(V_index[i],n,M)
+
+print_ln('Score finish')
+#set seed set
+k=regint(5)
+S=sint.Array(5)
+#note instance number
+Sn=regint(0)
+
+@while_do(lambda:Sn<k)
+def _():
+	print_ln('Sn:%s',Sn)
+	v=argmax(V_index,n,S,Sn,Score)
+	S[Sn]=v
+	Sn.update(Sn+1)
+	@for_range(n.reveal())
+	def _(i):
+		u=V_index[i].reveal()
+		#u in V but S
+		@if_(contain(S,Sn,u)==0)
+		def _():
+			@for_range(n.reveal())
+			def _(j):
+				w=V_index[j].reveal()
+				@if_(M[u][w].greater_than(M[v][w]).reveal())
+				def _():
+					M[u][w].update(M[v][w])
+			S1=sint.Array(len(S)+1)
+			S1.assign(S)
+			S1[Sn]=u
+			S1n=regint(Sn+1)
+			Score[u]=centralityS(S1,S1n,n,M)
+			
+@for_range(k)
+def _(i):
+	print_ln('%s',S[i].reveal())
+		
+		
+		
+		
+		
+		
+		
+		
+		

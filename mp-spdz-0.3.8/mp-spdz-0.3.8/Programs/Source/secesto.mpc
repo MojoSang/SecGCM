@@ -1,0 +1,55 @@
+from oram import OptimalORAM
+from SecESTO import *
+from Compiler import util
+from Compiler import library as lib
+
+timer_offset = 1000  # Hopefully run timers in an unused range
+
+
+def start_fancy_timer(id: int | None = None) -> int:
+    global timer_offset
+    _id = id if id is not None else timer_offset
+    lib.start_timer(_id)
+    if id is None:
+        timer_offset += 1
+    return _id
+
+
+def stop_fancy_timer(id):
+    lib.stop_timer(id)
+
+
+#grapn data visable
+V=517 #vertex number
+m=54036 #reachable number
+
+Rch=sint.Array(m)
+Dst=sint.Array(m)
+Ind=sint.Array(V+1)
+Rch.input_from(0)
+Dst.input_from(1)
+Ind.input_from(2)
+
+Rcd=OptimalORAM(m,entry_size=(10,4))
+Idx=OptimalORAM(V+1)
+
+@for_range(m)
+def _(i):
+	Rcd[sint(i)]=(Rch[i],Dst[i])
+	
+@for_range(V+1)
+def _(i):
+	Idx[sint(i)]=Ind[i]
+
+S=sint.Array(3)
+S.assign({244,287,187})
+Sp=OptimalORAM(3)
+@for_range(3)
+def _(i):
+	Sp[sint(i)]=S[i]
+
+
+id=start_fancy_timer(3000)
+find(Rcd,Idx,V,Sp)
+
+stop_fancy_timer(id)
