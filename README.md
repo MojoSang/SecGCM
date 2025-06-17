@@ -1,4 +1,4 @@
-This is the source code of paper "SecGCM: Secure Group Closeness Maximization on Graphs with Secure Multi-party Computation".
+This is the source code of paper "SecGCM: Secure Group Centrality Maximization on Graphs with Secure Multi-party Computation".
 
 # Experiment Setup
 
