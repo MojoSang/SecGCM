@@ -25,4 +25,31 @@ cd ./mp-spdz-0.3.8/mp-spdz-0.3.8
 ```
 ./Script/ring.sh secesto
 ```
+## Three-Party Computation Setup (Using Virtual Machines)
+
+This project supports secure multi-party computation (MPC) using three virtual machines to simulate three parties.
+
+
+1. **Select One VM as the Host:**
+
+   Run the following command on the host VM:
+
+   ```bash
+   ./Script/ring.sh -h localhost -p 0 -N 2 secesto
+   ```
+
+2. **Connect the Other Two VMs:**
+
+   Run the following commands on the other two VMs (replace `xxx.xxx.xxx.xxx` with the host VM's IP address):
+
+   ```bash
+   ./Script/ring.sh -h xxx.xxx.xxx.xxx -p 1 -N 2 secesto
+   ./Script/ring.sh -h xxx.xxx.xxx.xxx -p 2 -N 2 secesto
+   ```
+
+### Important Note
+
+> All source files must be compiled locally on each machine before running the computation.
+
+---
 
